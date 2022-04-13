@@ -20,7 +20,7 @@ Adds an ACP-configurable site warning to the top left corner of your board.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/sitewarning/workflows/Tests/badge.svg)](https://github.com/KaileySnay/sitewarning/actions)
+master: [![Build Status](https://github.com/kaileysnay/sitewarning/workflows/Tests/badge.svg)](https://github.com/kaileysnay/sitewarning/actions)
 
 ## License
 
